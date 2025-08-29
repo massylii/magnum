@@ -1,0 +1,2 @@
+# magnum
+bug bounty script
