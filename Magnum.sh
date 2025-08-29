@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Bug Bounty Automation Script - Test Version
+# Bug Bounty Automation Script - testing Version
 # Usage: ./script.sh <target_id>
 
 set -e  # Exit on any error
